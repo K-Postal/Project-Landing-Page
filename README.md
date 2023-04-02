@@ -1,1 +1,2 @@
 # Project-Landing-Page
+This is my first project with HTML and CSS. The assignment was to create a structured landing page only using HTML, CSS, and Flexbox. There was plenty of Googling and frustrations but I managed to figure it out. The hardest part was remembering how to think in boxes, how to assemble the tiny ones in the correct way. 
